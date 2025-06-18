@@ -71,3 +71,9 @@
 ![CLOSHARE 최종 발표-27](https://github.com/user-attachments/assets/b2520a65-31b3-408b-8def-b7c8cfe81ae5)
 
 </details>
+
+<br/>
+
+| Frontend | Backend | Backend & ML | 
+|:--------:|:-------:|:------------:|
+| [<img src="https://avatars.githubusercontent.com/u/111308213?v=4" alt="" style="width:100px;height:100px;">](https://github.com/signsaniw)<br/><div align="center">김세진</div> | [<img src="https://avatars.githubusercontent.com/u/102820056?v=4" alt="" style="width:100px;height:100px;">](https://github.com/dltjwls02)<br/><div align="center">이서진</div> | [<img src="https://avatars.githubusercontent.com/u/81565724?v=4" alt="" style="width:100px;height:100px;">](https://github.com/yulleta)<br/><div align="center">김민경</div> |
