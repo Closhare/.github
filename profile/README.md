@@ -49,13 +49,6 @@
 </details>
 
 <details>
-<summary><strong>📍 기대 효과</strong></summary>
-
-![CLOSHARE 최종 발표-27](https://github.com/user-attachments/assets/b2520a65-31b3-408b-8def-b7c8cfe81ae5)
-
-</details>
-
-<details>
 <summary><strong>📍 화면별 구현 세부사항</strong></summary>
   
 ![CLOSHARE 최종 발표-16](https://github.com/user-attachments/assets/648b68b0-9a91-45d5-a46c-839104cfd9f8)
@@ -69,5 +62,12 @@
 ![CLOSHARE 최종 발표-24](https://github.com/user-attachments/assets/34f8003c-b760-4c8d-a616-503fb7633508)  
 ![CLOSHARE 최종 발표-25](https://github.com/user-attachments/assets/56ec2b00-8e6a-41d6-b98a-f8dfeca51867)  
 ![CLOSHARE 최종 발표-26](https://github.com/user-attachments/assets/27e87e86-bab7-42be-aaf6-f36b53d8ba3c)  
+
+</details>
+
+<details>
+<summary><strong>📍 기대 효과</strong></summary>
+
+![CLOSHARE 최종 발표-27](https://github.com/user-attachments/assets/b2520a65-31b3-408b-8def-b7c8cfe81ae5)
 
 </details>
