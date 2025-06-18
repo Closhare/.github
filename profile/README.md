@@ -54,3 +54,20 @@
 ![CLOSHARE 최종 발표-27](https://github.com/user-attachments/assets/b2520a65-31b3-408b-8def-b7c8cfe81ae5)
 
 </details>
+
+<details>
+<summary><strong>📍 화면별 구현 세부사항</strong></summary>
+  
+![CLOSHARE 최종 발표-16](https://github.com/user-attachments/assets/648b68b0-9a91-45d5-a46c-839104cfd9f8)
+![CLOSHARE 최종 발표-17](https://github.com/user-attachments/assets/7d7c592d-275e-4a35-bd0f-1bed517300b4)  
+![CLOSHARE 최종 발표-18](https://github.com/user-attachments/assets/84f6aab7-b9e0-4e9d-89ea-a0c00dafc240)  
+![CLOSHARE 최종 발표-19](https://github.com/user-attachments/assets/ee26237b-d980-40f6-bc1e-79d6d82ff15f)  
+![CLOSHARE 최종 발표-20](https://github.com/user-attachments/assets/7a519c86-c3fe-42dd-b9fb-eb8300af3386)  
+![CLOSHARE 최종 발표-21](https://github.com/user-attachments/assets/d8c30f55-719a-4391-ab38-e8ba80d90ab8)  
+![CLOSHARE 최종 발표-22](https://github.com/user-attachments/assets/23571522-5553-47d6-abef-c71dcb227fd1)  
+![CLOSHARE 최종 발표-23](https://github.com/user-attachments/assets/86be20b0-6270-49a1-b87f-271e56ac1799)  
+![CLOSHARE 최종 발표-24](https://github.com/user-attachments/assets/34f8003c-b760-4c8d-a616-503fb7633508)  
+![CLOSHARE 최종 발표-25](https://github.com/user-attachments/assets/56ec2b00-8e6a-41d6-b98a-f8dfeca51867)  
+![CLOSHARE 최종 발표-26](https://github.com/user-attachments/assets/27e87e86-bab7-42be-aaf6-f36b53d8ba3c)  
+
+</details>
